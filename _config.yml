@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "TARESH GULERIA"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -236,15 +236,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
-
+  
 # Sass/SCSS
 sass:
   sass_dir: _sass
